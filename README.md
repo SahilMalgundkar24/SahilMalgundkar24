@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌐 Hello, World!
 
-<!--
-**SahilMalgundkar24/SahilMalgundkar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me  
+Hi, I'm **Sahil Malgundkar** from **Mumbai, India**, a **Computer Engineering student** and **Full Stack developer** exploring the endless possibilities of technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Tech Enthusiast
+- 🚀 Always ready to take on new challenges and build creative digital experiences.  
+- 💡 Skilled in **React**, **Next.js**, **ExpressJS**, **React Native** and **NodeJS**.  
+- 🎯 Focused on combining **design**, **technology**, and **innovation** to craft meaningful user experiences.   
+
+---
+
+## 🤝 Collaboration & Vision
+- 🤝 Open to collaborations on web apps, AI/ML projects, or anything that blends creativity with code.  
+- ⚡ Excited about exploring the intersection of **AI, design, and user experience**.  
+- 🌟 Let’s code something impactful together!  
+
+---
+
+## 📫 Connect with Me
+- 💼 Portfolio: *https://www.sahilmalgundkar.tech/* 
+- 💬 LinkedIn: *https://linkedin.com/in/sahil-malgundkar-208824261/*  
+- ✉️ Email: *sahilmalgundkar321@gmail.com* 
