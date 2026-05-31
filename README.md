@@ -76,6 +76,4 @@ Let's build something impactful together.
 
 💬 LinkedIn: https://linkedin.com/in/sahil-malgundkar-208824261/
 
-🐙 GitHub: https://github.com/sahil-malgundkar
-
 ✉️ Email: [sahilmalgundkar321@gmail.com](mailto:sahilmalgundkar321@gmail.com)
