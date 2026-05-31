@@ -1,25 +1,81 @@
 # 🌐 Hello, World!
 
-## 👋 About Me  
-Hi, I'm **Sahil Malgundkar** from **Mumbai, India**, a **Computer Engineering student** and **Full Stack developer** exploring the endless possibilities of technology.
+## 👋 About Me
+
+Hi, I'm **Sahil Malgundkar** from **Mumbai, India**.
+
+I'm a **Full Stack Developer** passionate about building AI-powered products, modern web applications, and intelligent agentic systems.
+
+Recently, I've been focused on exploring how AI can move beyond simple chat interfaces through structured outputs, streaming workflows, tool calling, and multi-agent systems.
 
 ---
 
-## 👨‍💻 Tech Enthusiast
-- 🚀 Always ready to take on new challenges and build creative digital experiences.  
-- 💡 Skilled in **React**, **Next.js**, **ExpressJS**, **React Native** and **NodeJS**.  
-- 🎯 Focused on combining **design**, **technology**, and **innovation** to craft meaningful user experiences.   
+## 🚀 What I'm Building
+
+* 🤖 Building AI Agents in Public
+* 🧠 Exploring Generative AI and Agentic Workflows
+* ⚡ Creating Full Stack AI Applications with Next.js and Vercel AI SDK
+* 🔍 Learning how production AI systems are engineered beyond prompts
+
+Currently working on an AI Agent Series where I'm building and documenting real-world AI agents from idea to deployment.
 
 ---
 
-## 🤝 Collaboration & Vision
-- 🤝 Open to collaborations on web apps, AI/ML projects, or anything that blends creativity with code.  
-- ⚡ Excited about exploring the intersection of **AI, design, and user experience**.  
-- 🌟 Let’s code something impactful together!  
+## 👨‍💻 Tech Stack
+
+### Full Stack Development
+
+* Next.js
+* React
+* TypeScript
+* Node.js
+* Express.js
+* React Native
+* MongoDB
+
+### AI & Modern Development
+
+* Vercel AI SDK
+* Claude
+* OpenAI
+* Prompt Engineering
+* Structured Outputs
+* Streaming AI Applications
+* Agent Workflows
 
 ---
 
-## 📫 Connect with Me
-- 💼 Portfolio: *https://www.sahilmalgundkar.tech/* 
-- 💬 LinkedIn: *https://linkedin.com/in/sahil-malgundkar-208824261/*  
-- ✉️ Email: *sahilmalgundkar321@gmail.com* 
+## 🌱 Current Interests
+
+* AI Agents
+* Multi-Agent Systems
+* Generative AI
+* Developer Tools
+* Product Engineering
+* Full Stack Development
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on:
+
+* AI Applications
+* Agentic Systems
+* Full Stack Products
+* Developer Tools
+* Innovative Side Projects
+
+Let's build something impactful together.
+
+---
+
+## 📫 Connect With Me
+
+💼 Portfolio: https://www.sahilmalgundkar.tech/
+
+💬 LinkedIn: https://linkedin.com/in/sahil-malgundkar-208824261/
+
+🐙 GitHub: https://github.com/sahil-malgundkar
+
+✉️ Email: [sahilmalgundkar321@gmail.com](mailto:sahilmalgundkar321@gmail.com)
