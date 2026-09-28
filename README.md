@@ -72,7 +72,7 @@ Let's build something impactful together.
 
 ## 📫 Connect With Me
 
-💼 Portfolio: https://www.sahilmalgundkar.tech/
+💼 Portfolio: [sahilmalgundkar.dev/](http://sahilmalgundkar.dev/)
 
 💬 LinkedIn: https://linkedin.com/in/sahil-malgundkar-208824261/
 
